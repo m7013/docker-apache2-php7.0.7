@@ -1,0 +1,3 @@
+- debian:jessie
+- apache2
+- php 7.0.7
